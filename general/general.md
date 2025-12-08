@@ -45,7 +45,7 @@ La stack suivante est **la stack officielle FlowBase**. Tous les agents IA doive
 
 ---
 
-### 🟦 **Frontend**
+### 🟦 **Default-Frontend**
 
 - React 19
 - TypeScript 5
@@ -61,7 +61,7 @@ La stack suivante est **la stack officielle FlowBase**. Tous les agents IA doive
 
 ---
 
-### 🟥 **Backend**
+### 🟥 **Default-Backend**
 
 - .NET 8 ou .NET 9
 - Architecture : Clean Architecture (Domain / Application / Infra / API)
@@ -76,7 +76,7 @@ La stack suivante est **la stack officielle FlowBase**. Tous les agents IA doive
 
 ---
 
-### 🟪 **Tests**
+### 🟪 **Default-Tests**
 
 - Frontend : Vitest, Playwright, MSW
 - Backend : xUnit, SpecFlow, FluentAssertions
@@ -88,7 +88,7 @@ La stack suivante est **la stack officielle FlowBase**. Tous les agents IA doive
 
 ---
 
-### 🟧 **DevOps**
+### 🟧 **Default-DevOps**
 
 - Docker 25.x
 - Docker Compose
