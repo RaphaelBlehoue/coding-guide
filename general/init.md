@@ -88,8 +88,6 @@ Ne fais rien pour l'instant à part lire et intégrer les règles ci-dessous. Un
 1. Veuillez fournir les documents ou les liens du github des documents **CONTEXTE MÉTIER** et **CONTEXTE PÉRIMÈTRE & MAQUETTES**.
 2. Veuillez fournir les documents ou les liens du github des documents que j'appelle **GUIDE DE DÉCOUPAGE US**
 
-- Pour info **GUIDE DE DÉCOUPAGE US**: est composé par [epic_guidelines, example_mapping, gherkin_acceptance_tests, glossary_business_terms, user_story_decomposition, etc...]. tout ses documents sont dans le dossier analysis. Donc si je partage seulement le lien du dossier **analysis**, tu pourras d'inspirer des documents dans ce dossier.
-
 **Mission (entrée 1) :**
 
 - Découper le périmètre en fonctionnalités
